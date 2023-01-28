@@ -28,6 +28,10 @@ using Regression Algorithms of Machine Learning I want to determine the yearly i
 
 - Check the Overfitting Using Lasso and Ridge
 - ![lasso](https://user-images.githubusercontent.com/105968767/215262503-dbda4ec0-8675-47e9-afdc-6f2ce486bd28.png)
+- ![ridge](https://user-images.githubusercontent.com/105968767/215262669-e7f1fdb0-5b5b-4ea9-b115-bf0310bd32f6.png)
+
+
+
 
 - 
 

@@ -17,4 +17,17 @@ using Regression Algorithms of Machine Learning I want to determine the yearly i
 - Check Skewness:
 ![skew](https://user-images.githubusercontent.com/105968767/215262027-d5427cdc-d968-4b0d-bc80-9fc471c6771b.png)
 
+- Check Correlation
+- ![corr](https://user-images.githubusercontent.com/105968767/215262118-7bb7dc71-18ec-4685-a18b-6995044a3975.png)
+
+- After Applying Modelling Got a r2 Score:
+- ![r2](https://user-images.githubusercontent.com/105968767/215262268-aa658ca8-270a-43f7-bb96-e43fd1709cee.png)
+
+- So IN this Assumption are not fullfill so go for Polynomial then Score:
+- ![ploy](https://user-images.githubusercontent.com/105968767/215262381-04152400-1e8a-4570-8491-c05cb8bdf217.png)
+
+- Check the Overfitting Using Lasso and Ridge
+- ![lasso](https://user-images.githubusercontent.com/105968767/215262503-dbda4ec0-8675-47e9-afdc-6f2ce486bd28.png)
+
+- 
 
